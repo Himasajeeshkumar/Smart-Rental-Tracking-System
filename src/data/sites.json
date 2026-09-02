@@ -1,0 +1,402 @@
+[
+  {
+    "siteId": "S001",
+    "name": "S001 - North Pit Iron Ore Basin",
+    "location": "Pilbara Region, WA",
+    "latitude": -22.3167,
+    "longitude": 118.75,
+    "category": "Mining Quarry"
+  },
+  {
+    "siteId": "S002",
+    "name": "S002 - Metro Corridor Transit Line 4",
+    "location": "Central Metro Hub",
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "category": "Urban Infrastructure"
+  },
+  {
+    "siteId": "S003",
+    "name": "S003 - Highland Hydroelectric Dam Expansion",
+    "location": "Cascade Range Sector B",
+    "latitude": 47.7511,
+    "longitude": -120.7401,
+    "category": "Energy & Dam Works"
+  },
+  {
+    "siteId": "S004",
+    "name": "S004 - Grand Valley Aggregate Quarry #7",
+    "location": "Nevada Basin Sector 3",
+    "latitude": 36.1699,
+    "longitude": -115.1398,
+    "category": "Quarry & Aggregates"
+  },
+  {
+    "siteId": "S005",
+    "name": "S005 - Coastal Deepwater Port Terminal",
+    "location": "Pacific Seaboard Yard 12",
+    "latitude": 37.7749,
+    "longitude": -122.4194,
+    "category": "Port Construction"
+  },
+  {
+    "siteId": "S006",
+    "name": "S006 - Interstate 80 Bypass Highway Project",
+    "location": "Midwest Logistics Corridor",
+    "latitude": 41.5868,
+    "longitude": -93.625,
+    "category": "Highway & Roadwork"
+  },
+  {
+    "siteId": "S007",
+    "name": "S007 - Keystone Copper Pit Mine #2",
+    "location": "Sonoran Mining Zone",
+    "latitude": 32.2226,
+    "longitude": -110.9747,
+    "category": "Surface Copper Mine"
+  },
+  {
+    "siteId": "S008",
+    "name": "S008 - Eastern Ridge Wind Farm Site C",
+    "location": "Appalachian Highlands",
+    "latitude": 38.8951,
+    "longitude": -77.0364,
+    "category": "Renewable Energy"
+  },
+  {
+    "siteId": "S009",
+    "name": "S009 - Southern Rail Freight Interchange",
+    "location": "Gulf Coast Rail Yard",
+    "latitude": 29.7604,
+    "longitude": -95.3698,
+    "category": "Rail & Logistics"
+  },
+  {
+    "siteId": "S010",
+    "name": "S010 - Silver Peak Lithium Extraction Field",
+    "location": "Clayton Valley Basin",
+    "latitude": 37.7552,
+    "longitude": -117.6358,
+    "category": "Lithium Mining"
+  },
+  {
+    "siteId": "S011",
+    "name": "S011 - Northern Gateway Bridge Overpass",
+    "location": "Great Lakes Corridor",
+    "latitude": 42.3314,
+    "longitude": -83.0458,
+    "category": "Bridge & Structural"
+  },
+  {
+    "siteId": "S012",
+    "name": "S012 - Pine Valley Commercial Megasite",
+    "location": "Rocky Mountain Gateway",
+    "latitude": 39.7392,
+    "longitude": -104.9903,
+    "category": "Commercial Earthworks"
+  },
+  {
+    "siteId": "S013",
+    "name": "S013 - Sunbelt Solar Array Phase 4",
+    "location": "Mojave Energy District",
+    "latitude": 35.011,
+    "longitude": -115.4734,
+    "category": "Solar Energy Farm"
+  },
+  {
+    "siteId": "S014",
+    "name": "S014 - Redwood Tunnel Expansion Project",
+    "location": "Northern Pacific Corridor",
+    "latitude": 45.5152,
+    "longitude": -122.6784,
+    "category": "Tunneling & Excavation"
+  },
+  {
+    "siteId": "S015",
+    "name": "S015 - Eagle Crest Granite Quarry",
+    "location": "Blue Ridge Sector 9",
+    "latitude": 35.5951,
+    "longitude": -82.5515,
+    "category": "Granite Quarry"
+  },
+  {
+    "siteId": "S016",
+    "name": "S016 - Blackstone Coal Mine Reclamation",
+    "location": "Powder River Basin",
+    "latitude": 44.2911,
+    "longitude": -105.5022,
+    "category": "Mine Reclamation"
+  },
+  {
+    "siteId": "S017",
+    "name": "S017 - Prairie Horizon Grain Terminal",
+    "location": "Upper Plains Agricultural Hub",
+    "latitude": 46.8772,
+    "longitude": -96.7898,
+    "category": "Heavy Industrial"
+  },
+  {
+    "siteId": "S018",
+    "name": "S018 - Apex Industrial Logistics Park",
+    "location": "Southwest Freight Hub",
+    "latitude": 33.4484,
+    "longitude": -112.074,
+    "category": "Earthworks & Paving"
+  },
+  {
+    "siteId": "S019",
+    "name": "S019 - Summit Gold Placer Operation",
+    "location": "Klondike Drainage District",
+    "latitude": 64.0601,
+    "longitude": -139.432,
+    "category": "Precious Metal Mine"
+  },
+  {
+    "siteId": "S020",
+    "name": "S020 - Bayou Gas Pipeline Spread 6",
+    "location": "Louisiana Wetland Sector",
+    "latitude": 30.4515,
+    "longitude": -91.1871,
+    "category": "Pipeline Trenching"
+  },
+  {
+    "siteId": "S021",
+    "name": "S021 - Olympus Limestone Quarry #4",
+    "location": "Ozark Mineral Belt",
+    "latitude": 37.2089,
+    "longitude": -93.2923,
+    "category": "Limestone Quarry"
+  },
+  {
+    "siteId": "S022",
+    "name": "S022 - Frontier Bauxite Surface Workings",
+    "location": "Southern Ore District",
+    "latitude": 34.7465,
+    "longitude": -92.2896,
+    "category": "Bauxite Extraction"
+  },
+  {
+    "siteId": "S023",
+    "name": "S023 - Titan Heavy Foundry Facility",
+    "location": "Rust Belt Industrial Yard",
+    "latitude": 40.4406,
+    "longitude": -79.9959,
+    "category": "Industrial Plant Civil"
+  },
+  {
+    "siteId": "S024",
+    "name": "S024 - Glacier Ridge Highway Extension",
+    "location": "Alaska Highway Mile 420",
+    "latitude": 61.2181,
+    "longitude": -149.9003,
+    "category": "Sub-Arctic Roadwork"
+  },
+  {
+    "siteId": "S025",
+    "name": "S025 - Piedmont Reservoir Dam Spillway",
+    "location": "Carolinas Water District",
+    "latitude": 34.0007,
+    "longitude": -81.0348,
+    "category": "Spillway Earthworks"
+  },
+  {
+    "siteId": "S026",
+    "name": "S026 - Red Rock Silica Sand Mine",
+    "location": "Texas Basin Fraction Zone",
+    "latitude": 31.8457,
+    "longitude": -102.3676,
+    "category": "Silica Sand Quarry"
+  },
+  {
+    "siteId": "S027",
+    "name": "S027 - Cascade Fiber Optic Trench Corridor",
+    "location": "Northwest Ridge",
+    "latitude": 47.6062,
+    "longitude": -122.3321,
+    "category": "Utility Trenching"
+  },
+  {
+    "siteId": "S028",
+    "name": "S028 - Midland Oil Terminal Earthworks",
+    "location": "Permian Basin Sector A",
+    "latitude": 31.9973,
+    "longitude": -102.0779,
+    "category": "Petrochemical Civil"
+  },
+  {
+    "siteId": "S029",
+    "name": "S029 - Harbor Island Maritime Drydock",
+    "location": "Puget Sound Naval Base",
+    "latitude": 47.5794,
+    "longitude": -122.3533,
+    "category": "Drydock Marine Works"
+  },
+  {
+    "siteId": "S030",
+    "name": "S030 - Canyonlands Potash Mine Works",
+    "location": "Paradox Basin District",
+    "latitude": 38.5733,
+    "longitude": -109.5498,
+    "category": "Potash Mine Site"
+  },
+  {
+    "siteId": "S031",
+    "name": "S031 - Thunderbird Airport Runway 3R Extension",
+    "location": "Southwest Aviation Sector",
+    "latitude": 36.084,
+    "longitude": -115.1537,
+    "category": "Aviation Paving"
+  },
+  {
+    "siteId": "S032",
+    "name": "S032 - Ironwood Forestry Access Road",
+    "location": "Northern Woods Sector 12",
+    "latitude": 46.5436,
+    "longitude": -87.3954,
+    "category": "Heavy Logging Road"
+  },
+  {
+    "siteId": "S033",
+    "name": "S033 - Badlands Bentonite Extraction Plant",
+    "location": "Black Hills Mining Zone",
+    "latitude": 43.8041,
+    "longitude": -103.231,
+    "category": "Bentonite Clay Pit"
+  },
+  {
+    "siteId": "S034",
+    "name": "S034 - Emerald Coast Marina Basin Dredging",
+    "location": "Gulf Coast Waterway",
+    "latitude": 30.3935,
+    "longitude": -86.4958,
+    "category": "Marine Dredging"
+  },
+  {
+    "siteId": "S035",
+    "name": "S035 - Iron Range Taconite Open Pit",
+    "location": "Mesabi Iron Range",
+    "latitude": 47.423,
+    "longitude": -92.9366,
+    "category": "Taconite Iron Mine"
+  },
+  {
+    "siteId": "S036",
+    "name": "S036 - Falcon Heights Residential Earthmoving",
+    "location": "Wasatch Front Development",
+    "latitude": 40.7608,
+    "longitude": -111.891,
+    "category": "Subdivision Grading"
+  },
+  {
+    "siteId": "S037",
+    "name": "S037 - Liberty Semiconductor Fab Site",
+    "location": "Silicon Prairie Yard",
+    "latitude": 30.2672,
+    "longitude": -97.7431,
+    "category": "High-Tech Civil Site"
+  },
+  {
+    "siteId": "S038",
+    "name": "S038 - Bluegrass Highway Interchange 65",
+    "location": "Kentucky Transit Sector",
+    "latitude": 38.2527,
+    "longitude": -85.7585,
+    "category": "Interchange Grading"
+  },
+  {
+    "siteId": "S039",
+    "name": "S039 - Bitterroot Forest Fire Break Trench",
+    "location": "Northern Rockies Zone",
+    "latitude": 46.8721,
+    "longitude": -113.994,
+    "category": "Firebreak Clearing"
+  },
+  {
+    "siteId": "S040",
+    "name": "S040 - Magnolia River Flood Control Levee",
+    "location": "Mississippi Delta Zone",
+    "latitude": 32.2988,
+    "longitude": -90.1848,
+    "category": "Levee Reinforcement"
+  },
+  {
+    "siteId": "S041",
+    "name": "S041 - Copper Queen Underground Portal",
+    "location": "Bisbee Mining District",
+    "latitude": 31.4482,
+    "longitude": -109.9284,
+    "category": "Underground Portal Civil"
+  },
+  {
+    "siteId": "S042",
+    "name": "S042 - Chesapeake Bay Barrier Island Works",
+    "location": "Mid-Atlantic Shoreline",
+    "latitude": 37.0349,
+    "longitude": -76.3601,
+    "category": "Coastal Barrier Civil"
+  },
+  {
+    "siteId": "S043",
+    "name": "S043 - High Desert Battery Storage Hub",
+    "location": "Kern County Energy Yard",
+    "latitude": 35.3733,
+    "longitude": -119.0187,
+    "category": "Grid Energy Project"
+  },
+  {
+    "siteId": "S044",
+    "name": "S044 - Appalachian Natural Gas Compressor Station",
+    "location": "Marcellus Shale Zone",
+    "latitude": 39.9526,
+    "longitude": -75.1652,
+    "category": "Compressor Civil Pad"
+  },
+  {
+    "siteId": "S045",
+    "name": "S045 - Ozark Hydro Pumped Storage Pit",
+    "location": "Missouri Plateau Sector",
+    "latitude": 37.9643,
+    "longitude": -91.8318,
+    "category": "Pumped Hydro Civil"
+  },
+  {
+    "siteId": "S046",
+    "name": "S046 - Yellowstone Geothermal Pipeline Site",
+    "location": "Snake River Basin",
+    "latitude": 43.4927,
+    "longitude": -112.0401,
+    "category": "Geothermal Utility Pad"
+  },
+  {
+    "siteId": "S047",
+    "name": "S047 - Rio Grande Irrigation Aqueduct Section 4",
+    "location": "Southwest Agricultural Corridor",
+    "latitude": 31.7619,
+    "longitude": -106.485,
+    "category": "Aqueduct Excavation"
+  },
+  {
+    "siteId": "S048",
+    "name": "S048 - Smoky Mountain Tunnel Rehabilitation",
+    "location": "Blue Ridge Parkway Mile 18",
+    "latitude": 35.5175,
+    "longitude": -83.5532,
+    "category": "Tunnel Refurbishment"
+  },
+  {
+    "siteId": "S049",
+    "name": "S049 - Sierra Gold Tailings Remediation",
+    "location": "Mother Lode District",
+    "latitude": 38.5816,
+    "longitude": -121.4944,
+    "category": "Environmental Remediation"
+  },
+  {
+    "siteId": "S050",
+    "name": "S050 - Everglades Water Reservoir Cell 2",
+    "location": "South Florida Water Management",
+    "latitude": 26.1224,
+    "longitude": -80.1373,
+    "category": "Reservoir Basin Berm"
+  }
+]

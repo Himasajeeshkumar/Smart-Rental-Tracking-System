@@ -1,0 +1,42 @@
+[
+  {
+    "email": "himasajeesh2005@gmail.com",
+    "password": "CatOps2026!",
+    "name": "Himas Ajeesh",
+    "title": "Executive Fleet Operations Manager (System Lead)",
+    "badge": "SYSTEM ADMIN",
+    "department": "Global Fleet Automation"
+  },
+  {
+    "email": "ops.lead@caterpillar-rentals.com",
+    "password": "CatOps2026!",
+    "name": "David Vance",
+    "title": "Chief Fleet Operations Lead",
+    "badge": "CORPORATE OPS",
+    "department": "Global Fleet Command"
+  },
+  {
+    "email": "fleet.director@caterpillar-rentals.com",
+    "password": "CatDirector2026!",
+    "name": "Eleanor Sterling",
+    "title": "Global Equipment Asset Director",
+    "badge": "EXECUTIVE DIRECTOR",
+    "department": "Heavy Machinery Asset Management"
+  },
+  {
+    "email": "telemetry.admin@caterpillar-rentals.com",
+    "password": "CatTelemetry2026!",
+    "name": "Dr. Raymond Cruz",
+    "title": "Principal IoT & Telemetry Lead",
+    "badge": "TELEMETRY CHIEF",
+    "department": "Predictive Signals & Sensor Health"
+  },
+  {
+    "email": "maintenance.lead@caterpillar-rentals.com",
+    "password": "CatService2026!",
+    "name": "Sarah Jenkins",
+    "title": "Senior Heavy Equipment Maintenance Lead",
+    "badge": "FIELD SERVICES",
+    "department": "Reliability & Preventative Maintenance"
+  }
+]
